@@ -5,7 +5,7 @@ Alles in python! Kein shell, c#, scheme, ...
 
 # Aufgaben
 ## 1) Bereitstellen der Daten
-     1.1) download der openbeer Datenbank von: https://openbeerdb.com/, "openbeerdb_csv.zip"
+     1.1) download der openbeer Datenbank von: https://openbeerdb.com/, "openbeerdb_csv.zip" (Man darf sich den Link vorher zusammenbauen. Die Idee ist jedoch, dass nach dem publizieren eines Notebooks/Code dieser Standalone ist und man keine weiteren Interkationen vom benutzer benötigt)
      1.2) unzip und einlesen der csv in python
 
 ## 2 A) Einlesen der Daten in eine Klasse die Datenverarbeitung auf python ermöglicht
