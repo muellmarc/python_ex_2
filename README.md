@@ -25,9 +25,10 @@ Alles in python! Kein shell, c#, scheme, ...
      4.2) Was ist ein gutes Datendesiugn für die Visualisierung, und warum?
 
 ## 5) Script vs. Class Design
-     5.1) If you did it as a script do the exercises also in a class design.
-     5.2) If you did it as a class design, do the exercises als in a script design. (externalize the repetitive stuff in functions)
-     5.3) A non primitive function needs proper testing ;-)
+     5.1) Wennn du die Aufgaben bisher in einem Script Design gelöst hast, versuche es doch mal in einem Klassen Design.
+     5.2) Wenn du die Aufgaben bisher schon in einem Klassen Design gelöst hast, versuche es doch mal als Script. Repetitives kannst du gerne in Funktionen extrahieren.
+     5.3) Jede nicht-triviale Funktion sollte ordentliche Tests haben ;-)
+     5.4) Wenn du Zeit hast, mache einen super chart der mich vom Hocker haut ;-) 
      
 ## 6) Abfrage Strategien
      6.1) Welches Format ist geeignet um die Daten so abzulegen, dass man sie effizient abrufen kann (die gesamten Daten).
