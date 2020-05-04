@@ -18,8 +18,13 @@ Alles in python! Kein shell, c#, scheme, ...
      2 B.2) Einlesen der Daten in diese Datenbank.
      2 B.3) Erstellen einer "Qualitativen Zusammenfassung" zu den Daten.
 
-## 3) Fragen auf den Daten
-
+## 3) Fragen auf den Daten (ihr dürft die Lösung auch mittels der Visualisierung aus Aufgabe 4 stützen)
+     3.1) Was ist der durschnittliche Alkoholgehalt der produzierten Biere nach Produktionsland?
+     3.2) Wie viele Brauereien gibt es pro Kontinent/Land/Stadt? Gibt es etwas auffälliges?
+     3.3) Wieviele Bierstile braut eine Braurei im Durchschnitt? Wieviele sind es pro Land?
+     3.4) Was ist der Median des Alkoholgehalts?
+     3.5) Welcher Bierstil ist hauptsächlich in welchem Land zu finden?
+     
 ## 4) Visualisierung der Daten
      4.1) Welche Pakete gibt es hier und was sind die Unterschiede?
      4.2) Was ist ein gutes Datendesiugn für die Visualisierung, und warum?
